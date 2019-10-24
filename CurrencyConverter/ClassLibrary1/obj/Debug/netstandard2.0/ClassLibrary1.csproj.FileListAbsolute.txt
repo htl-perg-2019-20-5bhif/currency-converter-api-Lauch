@@ -1,0 +1,8 @@
+D:\Schule\5.Klasse\C\CurrencyConverter\CurrencyConverter\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary1.deps.json
+D:\Schule\5.Klasse\C\CurrencyConverter\CurrencyConverter\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary1.dll
+D:\Schule\5.Klasse\C\CurrencyConverter\CurrencyConverter\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary1.pdb
+D:\Schule\5.Klasse\C\CurrencyConverter\CurrencyConverter\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.csprojAssemblyReference.cache
+D:\Schule\5.Klasse\C\CurrencyConverter\CurrencyConverter\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.AssemblyInfoInputs.cache
+D:\Schule\5.Klasse\C\CurrencyConverter\CurrencyConverter\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.AssemblyInfo.cs
+D:\Schule\5.Klasse\C\CurrencyConverter\CurrencyConverter\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.dll
+D:\Schule\5.Klasse\C\CurrencyConverter\CurrencyConverter\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.pdb
